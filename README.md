@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## STACK
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 <!--
 **JJW1223/JJW1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
