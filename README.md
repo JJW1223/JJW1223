@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJW1223&show_icons=true&theme=dracula)](https://github.com/JJW1223/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJW1223&show_icons=true&theme=dracula)](https://github.com/JJW1223/github-readme-stats)
 
-## STACK
+## 🛠️I've used.. 
 <span>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -26,6 +26,8 @@
 
 <img src="http://mazandi.herokuapp.com/api?handle=gurugikr23&theme=warm"/>
 
+## Email
+[![Gmail](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gurugikr23@chungbuk.ac.kr)
 
 
 <!--
