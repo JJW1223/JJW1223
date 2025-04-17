@@ -29,9 +29,7 @@
 </span>
 
 ## 💻solved.ac
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gurugikr23)](https://solved.ac/gurugikr23)
-
-<img src="http://mazandi.herokuapp.com/api?handle=gurugikr23&theme=warm"/>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gurugikr23)](https://solved.ac/gurugikr23) <img src="http://mazandi.herokuapp.com/api?handle=gurugikr23&theme=warm"/>
 
 ## 📧Email
 [![Gmail](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gurugikr23@chungbuk.ac.kr)
